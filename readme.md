@@ -8,6 +8,6 @@ Some of its features include:
     <li>Full CRUD functionality</li>
 </ul>
 
-To get started with this project see: <a href="https://projecthn.000webhostapp.com/article/27">Creating a simple RESTful API using Laravel Passport with request limit</a>
+To get started with this project see: <a href="https://project-hn.000webhostapp.com/article/27">Creating a simple RESTful API using Laravel Passport with request limit</a>
 
-Visit my website for more awesome tutorials at <a href="https://projecthn.000webhostapp.com/articles" >Project HN</a>
+Visit my website for more awesome tutorials at <a href="https://project-hn.000webhostapp.com/articles" >Project HN</a>
